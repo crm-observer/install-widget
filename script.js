@@ -1,5 +1,5 @@
-const REDIRECT_URI = 'https://functions.yandexcloud.net/d4eqnhu8c5vnbe3ktren'
-const SECRETS_URI = 'https://functions.yandexcloud.net/d4eqnhu8c5vnbe3ktren'
+const REDIRECT_URI = 'https://exec.crm-observer.dev/widget-install'
+const SECRETS_URI = 'https://exec.crm-observer.dev/widget-install'
 const LOGO_URI = 'https://crm-observer.github.io/install-widget/logo.png'
 const SCOPES = 'crm,notifications'
 
